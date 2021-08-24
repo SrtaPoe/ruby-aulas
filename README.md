@@ -60,6 +60,11 @@ Revisão do contéudo de Ruby
 | Intervalo definido | 🟪⬜⬜   |🏅 [**ex028.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex028.rb) | ✔
 | Temperatura Mínima e Máxima | 🟪🟪⬜   |🏅 [**ex029.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex029.rb)| ✔ 
 | Each e Times | 🟪⬜⬜   |🏅 [**ex030.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex030.rb) | ✔
+| Minutos para segundos         | 🟪🟪⬜  |🏅 [**ex031.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex031.rb) | ✔ 
+| Fruta | 🟪🟪⬜   |🏅 [**ex032.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex032.rb) | ✔ 
+| While 8 vezes| 🟪⬜⬜   |🏅 [**ex033.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex033.rb) | ✔
+| Qtde. de dobros | 🟪🟪⬜   |🏅 [**ex034.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex034.rb)| ✔ 
+| Descubra a senha| 🟪⬜⬜   |🏅 [**ex035.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex035.rb) | ✔
 
 
 ### 🔺 Observações:
