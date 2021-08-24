@@ -53,3 +53,18 @@ Revisão do contéudo de Ruby
 | Aritmética com each           | 🟪🟪⬜  |🏅 [**ex021.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex021.rb) | ✔ 
 | Break, Next no each | 🟪🟪⬜   |🏅 [**ex022.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex022.rb) | ✔ 
 | each no each | 🟪🟪⬜   |🏅 [**ex023.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex023.rb) | ✔ 
+| Múltiplos de 3 | 🟪⬜⬜   |🏅 [**ex024.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex024.rb) | ✔ 
+| Potência com times  | 🟪🟪⬜  |🏅 [**ex025.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex025.rb) | ✔ 
+| Idades Pássadas           | 🟪🟪⬜  |🏅 [**ex026.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex026.rb) | ✔ 
+| Combinação Alfanumérica | 🟪🟪⬜   |🏅 [**ex027.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex027.rb) | ✔ 
+| Intervalo definido | 🟪⬜⬜   |🏅 [**ex028.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex028.rb) | ✔
+| Temperatura Mínima e Máxima | 🟪🟪⬜   |🏅 [**ex029.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex029.rb)| ✔ 
+| Each e Times | 🟪⬜⬜   |🏅 [**ex030.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex030.rb) | ✔
+
+
+### 🔺 Observações:
+
+## 🔽 Nos exercícios:
+
+#### 0️⃣ n°29 [Temperatura Mínima e Máxima](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex029.rb) fiz uso do case e não do times, each ou range na solução, porque ambos deixaram visualmente poluído e uma repetição de informações desnecessárias como solicitado no exercício.
+#### 0️⃣ n°30 [Each e Times](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex030.rb) será refatorado com uso de for, porque ambos os métodos não me agradam para esse tipo de problema.
