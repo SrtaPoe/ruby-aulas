@@ -66,6 +66,17 @@ Revisão do contéudo de Ruby
 | Qtde. de dobros | 🟪🟪⬜   |🏅 [**ex034.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex034.rb)| ✔ 
 | Descubra a senha| 🟪⬜⬜   |🏅 [**ex035.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex035.rb) | ✔
 
+## 🔸 Desafios finais do módulo básico
+
+|  Desafio  | Nível  | Resolução  | Testes |
+|-----------|--------|-----|------------|
+| Desafio 1 | 🟪🟪⬜   |🏅 [**desafio01.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio01.rb) | ✔ 
+| Desafio 2  | 🟪🟪⬜  |🏅 [**desafio02.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio02.rb) | ✔ 
+| Desafio 3          | 🟪🟪⬜  |🏅 [**desafio03.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio03.rb) | ✔ 
+| Desafio 4 | 🟪🟪⬜   |🏅 [**desafio04.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio04.rb) | ✔ 
+| Desafio 5 | 🟪🟪⬜   |🏅 [**desafio05.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio05.rb) | ✔ 
+| Desafio 6| 🟪⬜⬜   |🏅 [**desafio06.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio06.rb) | ✔ 
+
 
 ### 🔺 Observações:
 
