@@ -22,7 +22,7 @@ Revisão do contéudo de Ruby
 | Tempo em horas, minutos e segundos  | 🟪⬜⬜  |🏅 [**conversor_tempo.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/beginner/conversor_tempo.rb) | ✔ 
 | Consumo médio gasolina     | 🟪⬜⬜  |🏅 [**consumo.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/beginner/consumo.rb) | ✔ 
 
-## 🔸 Desafios da Playlist de Ruby | [Rafael Biriba](https://www.youtube.com/watch?v=ycOHA710R1I&list=PLS2fc6xC9lt0D5ksSs-30Cz8qLpl7b43H&index=12&ab_channel=RafaelBiriba)
+## 🔸 Desafios da Playlist de Ruby | [Rafael Biriba](https://rafaelbiriba.com/blog/br/programacao/aprendendo-a-programar-com-ruby-basico-para-iniciantes/)
 |  Desafio  | Nível  | Resolução  | Testes |
 |-----------|--------|-----|------------|
 | Imprimir na tela | 🟪⬜⬜   |🏅 [**ex001.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex001.rb) | ✔ 
@@ -65,6 +65,17 @@ Revisão do contéudo de Ruby
 | While 8 vezes| 🟪⬜⬜   |🏅 [**ex033.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex033.rb) | ✔
 | Qtde. de dobros | 🟪🟪⬜   |🏅 [**ex034.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex034.rb)| ✔ 
 | Descubra a senha| 🟪⬜⬜   |🏅 [**ex035.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex035.rb) | ✔
+
+## 🔸 Desafios finais do módulo básico
+
+|  Desafio  | Nível  | Resolução  | Testes |
+|-----------|--------|-----|------------|
+| Desafio 1 | 🟪🟪⬜   |🏅 [**desafio01.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio01.rb) | ✔ 
+| Desafio 2  | 🟪🟪⬜  |🏅 [**desafio02.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio02.rb) | ✔ 
+| Desafio 3          | 🟪🟪⬜  |🏅 [**desafio03.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio03.rb) | ✔ 
+| Desafio 4 | 🟪🟪⬜   |🏅 [**desafio04.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio04.rb) | ✔ 
+| Desafio 5 | 🟪🟪⬜   |🏅 [**desafio05.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio05.rb) | ✔ 
+| Desafio 6| 🟪⬜⬜   |🏅 [**desafio06.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio06.rb) | ✔ 
 
 
 ### 🔺 Observações:
