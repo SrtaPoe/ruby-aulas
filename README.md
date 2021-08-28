@@ -22,7 +22,7 @@ Revisão do contéudo de Ruby
 | Tempo em horas, minutos e segundos  | 🟪⬜⬜  |🏅 [**conversor_tempo.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/beginner/conversor_tempo.rb) | ✔ 
 | Consumo médio gasolina     | 🟪⬜⬜  |🏅 [**consumo.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/beginner/consumo.rb) | ✔ 
 
-## 🔸 Desafios da Playlist de Ruby | [Rafael Biriba](https://www.youtube.com/watch?v=ycOHA710R1I&list=PLS2fc6xC9lt0D5ksSs-30Cz8qLpl7b43H&index=12&ab_channel=RafaelBiriba)
+## 🔸 Desafios da Playlist de Ruby | [Rafael Biriba](https://rafaelbiriba.com/blog/br/programacao/aprendendo-a-programar-com-ruby-basico-para-iniciantes/)
 |  Desafio  | Nível  | Resolução  | Testes |
 |-----------|--------|-----|------------|
 | Imprimir na tela | 🟪⬜⬜   |🏅 [**ex001.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex001.rb) | ✔ 
