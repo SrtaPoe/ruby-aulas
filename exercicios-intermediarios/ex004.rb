@@ -1,6 +1,6 @@
 class Calculadora
     def  self.ao_quadrado(numero)
-       puts numero**2
+       puts numero*numero
     end
 end
 
