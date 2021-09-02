@@ -99,6 +99,9 @@ Revisão do contéudo de Ruby
 | Ex. 15 | 🟪🟪⬜   |🏅 [**ex015.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex015.rb) | ✔ 
 
 ## 🔸 Desafios Finais da Playlist| [Rafael Biriba](https://rafaelbiriba.com/blog/br/programacao/aula-17A-aprendendo-a-programar-com-ruby-basico/)
+
+|  Desafio  | Nível  | Resolução  | Testes |
+|-----------|--------|-----|------------|
 | Des. 01 | 🟪🟪⬜   |🏅 [**ex001.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-finais/ex001.rb) | ✔ 
 | Des. 02 | 🟪🟪⬜   |🏅 [**ex002.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-finais/ex002.rb) | ✔ 
 | Des. 03 | 🟪🟪⬜   |🏅 [**ex003.rb***](https://github.com/SrtaPoe/ruby-aulas/tree/main/desafiofinal03) | ✔ 
