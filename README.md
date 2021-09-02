@@ -66,17 +66,42 @@ Revisão do contéudo de Ruby
 | Qtde. de dobros | 🟪🟪⬜   |🏅 [**ex034.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex034.rb)| ✔ 
 | Descubra a senha| 🟪⬜⬜   |🏅 [**ex035.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercices-rafaelbiriba/ex035.rb) | ✔
 
-## 🔸 Desafios finais do módulo básico
+## 🔸 Desafios finais do módulo básico [Rafael Biriba](https://rafaelbiriba.com/blog/br/programacao/aprendendo-a-programar-com-ruby-basico-para-iniciantes/)
 
 |  Desafio  | Nível  | Resolução  | Testes |
 |-----------|--------|-----|------------|
 | Desafio 1 | 🟪🟪⬜   |🏅 [**desafio01.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio01.rb) | ✔ 
-| Desafio 2  | 🟪🟪⬜  |🏅 [**desafio02.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio02.rb) | ✔ 
-| Desafio 3          | 🟪🟪⬜  |🏅 [**desafio03.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio03.rb) | ✔ 
+| Desafio 2 | 🟪🟪⬜   |🏅 [**desafio02.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio02.rb) | ✔ 
+| Desafio 3 | 🟪🟪⬜   |🏅 [**desafio03.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio03.rb) | ✔ 
 | Desafio 4 | 🟪🟪⬜   |🏅 [**desafio04.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio04.rb) | ✔ 
 | Desafio 5 | 🟪🟪⬜   |🏅 [**desafio05.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio05.rb) | ✔ 
-| Desafio 6| 🟪⬜⬜   |🏅 [**desafio06.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio06.rb) | ✔ 
+| Desafio 6| 🟪⬜⬜    |🏅 [**desafio06.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-basic-rafaelbiriba/desafio06.rb) | ✔ 
 
+
+## 🔸 Exercícios intermediários | [Rafael Biriba](https://rafaelbiriba.com/blog/br/programacao/aprendendo-a-programar-com-ruby-basico-para-iniciantes/)
+
+|  Desafio  | Nível  | Resolução  | Testes |
+|-----------|--------|-----|------------|
+| Ex. 01 | 🟪🟪⬜   |🏅 [**ex001.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex001.rb) | ✔ 
+| Ex. 02 | 🟪🟪⬜   |🏅 [**ex002.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex002.rb) | ✔ 
+| Ex. 03 | 🟪🟪⬜   |🏅 [**ex003.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex003.rb) | ✔ 
+| Ex. 04 | 🟪🟪⬜   |🏅 [**ex004.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex004.rb) | ✔ 
+| Ex. 05 | 🟪🟪⬜   |🏅 [**ex005.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex005.rb) | ✔ 
+| Ex. 06 | 🟪🟪⬜   |🏅 [**ex006.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex006.rb) | ✔ 
+| Ex. 07 | 🟪🟪⬜   |🏅 [**ex007.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex007.rb) | ✔ 
+| Ex. 08 | 🟪🟪⬜   |🏅 [**ex008.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex008.rb) | ✔ 
+| Ex. 09 | 🟪🟪⬜   |🏅 [**ex009.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex009.rb) | ✔ 
+| Ex. 10 | 🟪🟪⬜   |🏅 [**ex010.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex010.rb) | ✔ 
+| Ex. 11 | 🟪🟪⬜   |🏅 [**ex011.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex011.rb) | ✔ 
+| Ex. 12 | 🟪🟪⬜   |🏅 [**ex012.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex012.rb) | ✔ 
+| Ex. 13 | 🟪🟪⬜   |🏅 [**ex013.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex013.rb) | ✔ 
+| Ex. 14 | 🟪🟪⬜   |🏅 [**ex014.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex014.rb) | ✔ 
+| Ex. 15 | 🟪🟪⬜   |🏅 [**ex015.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/exercicios-intermediarios/ex015.rb) | ✔ 
+
+## 🔸 Desafios Finais da Playlist| [Rafael Biriba](https://rafaelbiriba.com/blog/br/programacao/aula-17A-aprendendo-a-programar-com-ruby-basico/)
+| Des. 01 | 🟪🟪⬜   |🏅 [**ex001.rb**](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-finais/ex001.rb) | ✔ 
+| Des. 02 | 🟪🟪⬜   |🏅 [**ex002.rb***](https://github.com/SrtaPoe/ruby-aulas/blob/main/desafios-finais/ex002.rb) | ✔ 
+| Des. 03 | 🟪🟪⬜   |🏅 [**ex003.rb***](https://github.com/SrtaPoe/ruby-aulas/tree/main/desafiofinal03) | ✔ 
 
 ### 🔺 Observações:
 
